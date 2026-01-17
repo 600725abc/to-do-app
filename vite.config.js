@@ -10,7 +10,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'Neumorphic To-Do',
+        name: 'To-Do List',
         short_name: 'ToDo',
         description: 'A beautiful neumorphic to-do list app',
         theme_color: '#e0e5ec',
